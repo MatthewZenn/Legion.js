@@ -44,3 +44,15 @@ h2 {
     color: black;
     cursor: pointer;
 }
+
+p {
+    position: absolute;
+    bottom: 0;
+    font-size: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+a {
+    color: greenyellow;
+}
