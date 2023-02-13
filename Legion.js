@@ -8,7 +8,7 @@ const names = ['Noob', 'Slayer', 'Master', 'Unicorn', 'Demon', 'Hammer', 'Gamer'
 const spaces = ['', '_', '.'];
 
 function legion(){
-    var tag = '...';
+    var tag = '. . .';
     var first = names[Math.floor(Math.random()*names.length)];
 
     var re = first;
