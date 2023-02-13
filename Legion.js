@@ -3,8 +3,8 @@ document.getElementById('btn').addEventListener('click', () => {
 });
 
 const prefixes = ['XX_', 'Xx_', 'XX.', 'Xx.', 'The', '#1', 'THE', ''];
-const suffixes = ['_XX', '_xX', '.XX', '.xX', '69', '420', '1', '2', '_WasHere'];
-const names = ['Noob', 'Slayer', 'Master', 'Unicorn', 'Demon', 'Hammer', 'Gamer', 'Killer', 'Sith', 'Jedi'];
+const suffixes = ['_XX', '_xX', '.XX', '.xX', '69', '420', '1', '2', '_WasHere', '99'];
+const names = ['Noob', 'Slayer', 'Master', 'Unicorn', 'Demon', 'Hammer', 'Gamer', 'Killer', 'Sith', 'Jedi', 'Cowboy', 'Boi', 'Cow', 'Pantz', 'Mushroom', 'Potato', 'Monster', 'Godess', 'Thunder', 'Mario', 'Brian', 'Luigi', 'Dino', 'Hunter'];
 const spaces = ['', '_', '.'];
 
 function legion(){
