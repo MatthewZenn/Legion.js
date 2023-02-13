@@ -1,0 +1,46 @@
+body, html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 40pt;
+    font-family: 'Courier New';
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    transform: translate(-50%, -50%);
+}
+
+h2 {
+    color: white;
+    font-size: 18pt;
+    margin: 0 auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+}
+
+#btn {
+    width: 320px;
+    height: 50px;
+    background-color: black;
+    border: 3px solid greenyellow;
+    border-radius: 5px;
+    color: greenyellow;
+    font-size: 20pt;
+    font-family: 'Courier New';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#btn:hover {
+    transition-duration: 0.15s;
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}
